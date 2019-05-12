@@ -1,4 +1,7 @@
-# A
+# B
+
+- @css[text-green](somar) @css[text-yellow](preços) de @css[text-yellow](produtos)
+- @css[text-green](registrar) @css[text-yellow](vendas)
 
 ---
 
