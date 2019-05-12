@@ -8,7 +8,7 @@
 - Foo
   - bar
 - Bar
-  foo
+  - foo
 @ulend
 
 ---
