@@ -2,6 +2,17 @@
 
 ---
 
+# Foo
+
+@ul[spaced]
+- Foo
+  - bar
+- Bar
+  foo
+@ulend
+
+---
+
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
